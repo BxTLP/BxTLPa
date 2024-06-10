@@ -80,7 +80,8 @@ education:
     #    date_start: 2017-05
     date_end: 2017-05
     summary: |
-    GPA: 3.87/4.0
+      GPA: 3.87/4.0
+      
       Courses included:
       - Cum Laude and with Distinction in Religious Studies
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
