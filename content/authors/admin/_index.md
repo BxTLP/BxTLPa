@@ -102,7 +102,7 @@ work:
     company_name: Artura Labs
     company_url: 'https://arturalabs.com/'
     company_logo: ''
-    date_start: 2021-02
+    date_start: 2021-02-14
     date_end: ''
     summary: |
       Responsibilities include:
