@@ -80,7 +80,7 @@ education:
     GPA: 3.87/4.0
       
       Courses included:
-      Cum Laude and with Distinction in Religious Studies
+      - Cum Laude and with Distinction in Religious Studies
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
