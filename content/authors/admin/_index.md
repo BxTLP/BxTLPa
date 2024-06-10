@@ -1,17 +1,17 @@
 ---
 # Display name
-title: 吳健雄
+title: Yuli Wang
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: 王宇力
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Yuli
+last_name: Wang
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 🙆🏻‍♂️
 
 # Is this the primary user of the site?
 superuser: true
@@ -20,75 +20,88 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: "Student in Philosophy | Analytical Explorer of Mysticism and Religious Thought"
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: Yale Divinity School
+    url: https://divinity.yale.edu/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:yuli.wang@yale.edu'
     label: E-mail Me
   - icon: brands/x
-    url: https://twitter.com/GetResearchDev
+    url: https://x.com/theyuliwang
   - icon: brands/instagram
-    url: https://www.instagram.com/
+    url: https://www.instagram.com/emirkia
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/BxTLP
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/
-  - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://www.linkedin.com/in/yuli-wang-al/
+
+#   - icon: academicons/google-scholar
+#     url: https://scholar.google.com/
+#   - icon: academicons/orcid
+#     url: https://orcid.org/
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+Combines a high level of analytical rigor with a pragmatist methodology in
+  - Epistemology
+  - Philosophy of Religion
+  - Religious Studies & Mysticism
+  - Science and Technology Studies
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+  - area: Master of Arts in Religion, Concentrated in Philosophical Theology/ Philosophy of Religion
+    institution: Yale University, Yale Divinity School
+    #date_start: 2017-08 and 2024-01
+    date_end: 2020-02 and 2024-05
+#    summary: |
+#      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: Tutorial in Ethics with Professor Alice Crary
+    institution: Oxford University, Regent’s Park College
+#    date_start: 2018-09
+    date_end: Michaelmas Term 2018
     summary: |
-      GPA: 3.8/4.0
+       Ethics
 
+      Courses included:
+      - 
+  - area: Bachelor of Arts, Religious Studies in Judaism
+    institution: University of Illinois at Urbana-Champaign
+#    date_start: 2017-05
+    date_end: 2017-05
+    summary: |
+       Cum Laude and with Distinction in Religious Studies
+      GPA: 3.87/4.0
+      
       Courses included:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: Attended classes in Religious Studies and Business Administration
+    institution: Fu Jen Catholic University
+#    date_start: 2017-05
+#    date_end: 2017-05
     summary: |
-      GPA: 3.4/4.0
+      GPA: 3.97/4.0
       
       Courses included:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ''
+  - position: Founder & CEO
+    company_name: Artura Labs
+    company_url: 'https://arturalabs.com/'
     company_logo: ''
-    date_start: 2021-01-01
+    date_start: 2021-02
     date_end: ''
     summary: |2-
       Responsibilities include:
@@ -145,9 +158,15 @@ languages:
   - name: English
     percent: 100
   - name: Chinese
-    percent: 75
-  - name: Portuguese
+    percent: 100
+  - name: Classical Chinese
+    percent: 70    
+  - name: French
     percent: 25
+  - name: Biblical Hebrew
+    percent: 25
+  - name: Latin & Greek
+    percent: 15   
 
 # Awards.
 #   Add/remove as many awards below as you like.
