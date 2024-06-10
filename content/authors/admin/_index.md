@@ -68,10 +68,10 @@ education:
 #    date_start: 2018-09
     date_end: Michaelmas Term 2018
     summary: |
-       Ethics
+       "Ethics"
 
-      Courses included:
-      - 
+      Courses included: 
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
   - area: Bachelor of Arts, Religious Studies in Judaism
     institution: University of Illinois at Urbana-Champaign
 #    date_start: 2017-05
@@ -102,7 +102,7 @@ work:
     company_logo: ''
     date_start: 2021-02
     date_end: ''
-    summary: |2-
+    summary: |
       Responsibilities include:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
