@@ -57,7 +57,7 @@ education:
   - area: Master of Arts in Religion, Concentrated in Philosophical Theology/ Philosophy of Religion
     institution: Yale University, Yale Divinity School
     #date_start: 2017-08 and 2024-01
-    date_end: 2020-02 and 2024-05
+    date_end: 2024-05-20
     summary: |
       Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
@@ -77,7 +77,7 @@ education:
   - area: Bachelor of Arts, Religious Studies in Judaism
     institution: University of Illinois at Urbana-Champaign
     #    date_start: 2017-05
-    date_end: 2017-05
+    date_end: 2017-05-17
     summary: |
       GPA: 3.87/4.0
 
