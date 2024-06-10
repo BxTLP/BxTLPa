@@ -66,7 +66,7 @@ education:
   - area: Tutorial in Ethics with Professor Alice Crary
     institution: Oxford University, Regent’s Park College
     #    date_start: 2018-09
-    date_end: Michaelmas Term 2018
+    date_end: "Michaelmas Term 2018"
     summary: |
       GPA: 
 
