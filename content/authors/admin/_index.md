@@ -53,27 +53,31 @@ interests:
   - Philosophy of Religion
   - Religious Studies & Mysticism
   - Science and Technology Studies
+
 education:
   - area: Master of Arts in Religion, Concentrated in Philosophical Theology/ Philosophy of Religion
     institution: Yale University, Yale Divinity School
     #date_start: 2017-08 and 2024-01
     date_end: 2020-02 and 2024-05
-#    summary: |
-#      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+    summary: |
+      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
   - area: Tutorial in Ethics with Professor Alice Crary
     institution: Oxford University, Regent’s Park College
-#    date_start: 2018-09
+    #    date_start: 2018-09
     date_end: Michaelmas Term 2018
     summary: |
+      GPA: 
 
-      Courses included: 
+      Courses included:
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
   - area: Bachelor of Arts, Religious Studies in Judaism
     institution: University of Illinois at Urbana-Champaign
-#    date_start: 2017-05
+    #    date_start: 2017-05
     date_end: 2017-05
     summary: |
     GPA: 3.87/4.0
@@ -84,8 +88,8 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
   - area: Attended classes in Religious Studies and Business Administration
     institution: Fu Jen Catholic University
-#    date_start: 2017-05
-#    date_end: 2017-05
+    #    date_start: 2017-05
+    #    date_end: 2017-05
     summary: |
       GPA: 3.97/4.0
       
