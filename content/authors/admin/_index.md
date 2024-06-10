@@ -53,7 +53,6 @@ Combines a high level of analytical rigor with a pragmatist methodology in
   - Philosophy of Religion
   - Religious Studies & Mysticism
   - Science and Technology Studies
-
 education:
   - area: Master of Arts in Religion, Concentrated in Philosophical Theology/ Philosophy of Religion
     institution: Yale University, Yale Divinity School
