@@ -68,7 +68,6 @@ education:
 #    date_start: 2018-09
     date_end: Michaelmas Term 2018
     summary: |
-       "Ethics"
 
       Courses included: 
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
