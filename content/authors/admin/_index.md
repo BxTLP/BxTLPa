@@ -48,7 +48,7 @@ profiles:
 #     url: https://orcid.org/
 
 interests:
-Combines a high level of analytical rigor with a pragmatist methodology in
+  Combines a high level of analytical rigor with a pragmatist methodology in
   - Epistemology
   - Philosophy of Religion
   - Religious Studies & Mysticism
