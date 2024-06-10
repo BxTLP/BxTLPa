@@ -48,7 +48,6 @@ profiles:
 #     url: https://orcid.org/
 
 interests:
-  Combines a high level of analytical rigor with a pragmatist methodology in
   - Epistemology
   - Philosophy of Religion
   - Religious Studies & Mysticism
@@ -81,7 +80,7 @@ education:
     date_end: 2017-05
     summary: |
       GPA: 3.87/4.0
-      
+
       Courses included:
       - Cum Laude and with Distinction in Religious Studies
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
@@ -204,4 +203,4 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+  Combines a high level of analytical rigor with a pragmatist methodology in.  Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
